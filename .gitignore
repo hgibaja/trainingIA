@@ -1,0 +1,8 @@
+# Entorno virtual y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Modelos entrenados (pesan mucho; se regeneran con src/train.py)
+models/
